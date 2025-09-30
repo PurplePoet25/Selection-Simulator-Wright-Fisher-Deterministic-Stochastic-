@@ -118,8 +118,7 @@ The app opens a Matplotlib window. Use the controls at the bottom to explore pre
 ├── genetics_core.py     # Hardy–Weinberg, mean fitness, deterministic & WF updates
 ├── presets.py           # Preset catalogue and fitness computation
 ├── viz_bell.py          # Bell-curve view (histogram + mixture PDF)
-├── selection_sim.py     # UI app: arena, plots, controls, help overlay
-└── assets/              # (optional) screenshots for README
+└── selection_sim.py     # UI app: arena, plots, controls, help overlay
 ```
 
 ---
