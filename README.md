@@ -141,4 +141,4 @@ The app opens a Matplotlib window. Use the controls at the bottom to explore pre
 
 
 If you use this in teaching or a report, please cite:
-> *Selection Simulator — Wright–Fisher (Deterministic + Stochastic).* [https://github.com/… (add your repo URL)](https://github.com/PurplePoet25/Selection-Simulator-Wright-Fisher-Deterministic-Stochastic-)
+> *Selection Simulator — Wright–Fisher (Deterministic + Stochastic).* https://github.com/PurplePoet25/Selection-Simulator-Wright-Fisher-Deterministic-Stochastic-
