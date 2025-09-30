@@ -67,8 +67,8 @@
 - Mixture of **three Gaussians** with **fixed means**: `ĀĀ=0`, `AĀ=0.5`, `AA=1` (keeps heterozygotes visually clear regardless of fitness dominance).
 - Histogram is drawn from **N sampled phenotypes** at each generation; line is the normalized **mixture PDF**.
 
-![Bell curve](assets/bell.png)
-*Add a bell‑curve screenshot here.*
+<img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/4ea4fd57-f583-40e3-ad6e-11b7be44e99b" />
+
 
 ---
 
